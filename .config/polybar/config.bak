@@ -1,0 +1,28 @@
+[bar/testbar]
+monitor = ${env:MONITOR:fallback-value}
+modules-right = date
+
+[module/date]
+type = internal/date
+date = %X%
+
+[module/battery]
+
+[module/i3]
+type = internal/i3
+pin-workspaces = true
+format = <label-state> <label-mode>
+label-mode-padding = 2
+label-mode-foreground = #000
+label-mode-background = ${colors.primary}
+label-urgent = %index%
+
+[module/wired-network]
+type = internal/network
+interface = enp2s0f0
+interval = 5.0
+
+[module/wireless-network]
+type = internal/network
+interface = wlp3s0
+interval = 3.0

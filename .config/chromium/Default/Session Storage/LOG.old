@@ -1,0 +1,24 @@
+2018/12/11-19:24:29.020 462 Reusing MANIFEST /home/nold/.config/chromium/Default/Session Storage/MANIFEST-000001
+2018/12/11-19:24:29.021 462 Recovering log #95
+2018/12/11-19:24:29.021 462 Reusing old log /home/nold/.config/chromium/Default/Session Storage/000095.log 
+2018/12/11-19:29:28.254 f79 Level-0 table #100: started
+2018/12/11-19:29:28.259 f79 Level-0 table #100: 17287 bytes OK
+2018/12/11-19:29:28.262 f79 Delete type=0 #95
+2018/12/11-19:57:28.631 f79 Level-0 table #102: started
+2018/12/11-19:57:28.637 f79 Level-0 table #102: 15561 bytes OK
+2018/12/11-19:57:28.639 f79 Delete type=0 #99
+2018/12/11-20:16:36.606 f79 Level-0 table #104: started
+2018/12/11-20:16:36.611 f79 Level-0 table #104: 17175 bytes OK
+2018/12/11-20:16:36.613 f79 Delete type=0 #101
+2018/12/11-20:45:40.511 f79 Level-0 table #106: started
+2018/12/11-20:45:40.516 f79 Level-0 table #106: 17590 bytes OK
+2018/12/11-20:45:40.518 f79 Delete type=0 #103
+2018/12/11-20:45:40.518 f79 Compacting 4@0 + 1@1 files
+2018/12/11-20:45:40.524 f79 Generated table #107@0: 1925 keys, 84055 bytes
+2018/12/11-20:45:40.524 f79 Compacted 4@0 + 1@1 files => 84055 bytes
+2018/12/11-20:45:40.526 f79 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/12/11-20:45:40.527 f79 Delete type=2 #104
+2018/12/11-20:45:40.527 f79 Delete type=2 #102
+2018/12/11-20:45:40.527 f79 Delete type=2 #106
+2018/12/11-20:45:40.527 f79 Delete type=2 #100
+2018/12/11-20:45:40.527 f79 Delete type=2 #97

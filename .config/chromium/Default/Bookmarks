@@ -1,0 +1,100 @@
+{
+   "checksum": "9acbd2903462c6c202ac58506bd7cb2d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "12985259589135000",
+            "id": "10",
+            "meta_info": {
+               "last_visited_desktop": "13188844289155296"
+            },
+            "name": "YouTube",
+            "sync_transaction_version": "12",
+            "type": "url",
+            "url": "http://www.youtube.com/"
+         }, {
+            "date_added": "13186282659531880",
+            "id": "11",
+            "meta_info": {
+               "last_visited_desktop": "13186412190619084"
+            },
+            "name": "AWS EUW",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "https://eu-west-1.console.aws.amazon.com/console/home?region=eu-west-1#"
+         } ],
+         "date_added": "13188747300377350",
+         "date_modified": "13186282659531880",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13175293353259922",
+               "id": "8",
+               "meta_info": {
+                  "last_visited_desktop": "13175293353260762"
+               },
+               "name": "Anda üürile korter, 2 tuba, Õnne 16, Karlova, Tartu linn, Tartu, Tartumaa - Kinnisvaraportaal KV.EE",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://kinnisvaraportaal-kv-ee.postimees.ee/esimene-makse-1-kuu-ettemaks-garantiiraha-ning-maa-3002936.html?nr=2&search_key=b75a74999fdc73e3ce8c16145d5afd80#modal"
+            }, {
+               "date_added": "13187042930670562",
+               "id": "9",
+               "meta_info": {
+                  "last_visited_desktop": "13187042930671404"
+               },
+               "name": "preset xresources - Google Search",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.google.ee/search?q=preset+xresources&oq=preset+xresources&aqs=chrome..69i57.9049j0j4&sourceid=chrome&ie=UTF-8"
+            } ],
+            "date_added": "13188747329266491",
+            "date_modified": "13188747329266492",
+            "id": "6",
+            "name": "Kinnisvara",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13186520235026085",
+            "id": "7",
+            "meta_info": {
+               "last_visited_desktop": "13186520235026397"
+            },
+            "name": "ubuntu mate i3 - Google Search",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.google.ee/search?q=ubuntu+mate+i3&oq=ubuntu+mate+i3&aqs=chrome..69i57j0l5.1510j0j8&client=ubuntu&sourceid=chrome&ie=UTF-8"
+         } ],
+         "date_added": "13188747300377355",
+         "date_modified": "13186520235026085",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "12",
+      "synced": {
+         "children": [ {
+            "date_added": "13187915724711256",
+            "id": "5",
+            "meta_info": {
+               "last_visited": "13187986872769155",
+               "last_visited_desktop": "13188510921000261"
+            },
+            "name": "Ubuntu Forums",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://ubuntuforums.org/showthread.php?t=2361552"
+         } ],
+         "date_added": "13188747300377356",
+         "date_modified": "13187915724711256",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

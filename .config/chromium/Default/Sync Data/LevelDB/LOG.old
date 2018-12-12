@@ -1,0 +1,15 @@
+2018/12/11-19:24:28.067 458 Reusing MANIFEST /home/nold/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2018/12/11-19:24:28.067 458 Recovering log #1175
+2018/12/11-19:24:28.070 458 Reusing old log /home/nold/.config/chromium/Default/Sync Data/LevelDB/001175.log 
+2018/12/11-20:25:50.915 f79 Level-0 table #1179: started
+2018/12/11-20:25:50.923 f79 Level-0 table #1179: 89359 bytes OK
+2018/12/11-20:25:50.926 f79 Delete type=0 #1175
+2018/12/11-20:25:50.927 f79 Compacting 4@0 + 1@1 files
+2018/12/11-20:25:50.933 f79 Generated table #1180@0: 110 keys, 19400 bytes
+2018/12/11-20:25:50.933 f79 Compacted 4@0 + 1@1 files => 19400 bytes
+2018/12/11-20:25:50.936 f79 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/12/11-20:25:50.936 f79 Delete type=2 #1176
+2018/12/11-20:25:50.936 f79 Delete type=2 #1174
+2018/12/11-20:25:50.936 f79 Delete type=2 #1172
+2018/12/11-20:25:50.936 f79 Delete type=2 #1170
+2018/12/11-20:25:50.936 f79 Delete type=2 #1179

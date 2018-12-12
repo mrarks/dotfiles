@@ -1,0 +1,20 @@
+2018/12/11-20:58:34.902 1069 Reusing MANIFEST /home/nold/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2018/12/11-20:58:34.904 1069 Recovering log #12
+2018/12/11-20:58:34.908 1069 Reusing old log /home/nold/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000012.log 
+2018/12/12-18:05:38.942 41b9 Level-0 table #16: started
+2018/12/12-18:05:39.009 41b9 Level-0 table #16: 2640226 bytes OK
+2018/12/12-18:05:39.011 41b9 Delete type=0 #12
+2018/12/12-18:30:35.472 41b9 Level-0 table #18: started
+2018/12/12-18:30:35.548 41b9 Level-0 table #18: 3564242 bytes OK
+2018/12/12-18:30:35.551 41b9 Delete type=0 #15
+2018/12/12-18:30:35.554 41b9 Compacting 4@0 + 1@1 files
+2018/12/12-18:30:35.641 41b9 Generated table #19@0: 9 keys, 2225258 bytes
+2018/12/12-18:30:35.690 41b9 Generated table #20@0: 8 keys, 2110101 bytes
+2018/12/12-18:30:35.782 41b9 Generated table #21@0: 10 keys, 2950574 bytes
+2018/12/12-18:30:35.783 41b9 Compacted 4@0 + 1@1 files => 7285933 bytes
+2018/12/12-18:30:35.785 41b9 compacted to: files[ 0 3 1 0 0 0 0 ]
+2018/12/12-18:30:35.785 41b9 Delete type=2 #13
+2018/12/12-18:30:35.785 41b9 Delete type=2 #18
+2018/12/12-18:30:35.786 41b9 Delete type=2 #11
+2018/12/12-18:30:35.786 41b9 Delete type=2 #8
+2018/12/12-18:30:35.787 41b9 Delete type=2 #16

@@ -1,0 +1,18 @@
+$include /etc/inputrc
+set editing-mode vi
+$if mode=vi
+
+set keymap vi-command
+# these are for vi-command mode
+Control-l: clear-screen
+Control-a: beginning-of-line
+
+set keymap vi-insert
+# these are for vi-insert mode
+Control-l: clear-screen
+Control-a: beginning-of-line
+
+$endif
+
+# Show if in insert mode on prompt (removed for now because it is not customizable)
+# set show-mode-in-prompt on
